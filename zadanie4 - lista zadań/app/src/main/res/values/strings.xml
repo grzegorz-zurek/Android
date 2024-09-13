@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lista Zadań</string>
+    <string name="textview">TextView</string>
+    <string name="name">name</string>
+    <string-array name="names">
+        <item>Powiesić pranie</item>
+        <item>Wynieść śmieci</item>
+        <item>Odkurzyć dom</item>
+        <item>Umyć podłogi</item>
+        <item>Przetrzeć kurze</item>
+        <item>Zrobić zakupy</item>
+    </string-array>
+</resources>

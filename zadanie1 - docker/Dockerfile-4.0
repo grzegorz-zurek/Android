@@ -1,0 +1,28 @@
+FROM ubuntu:22.04
+
+RUN apt-get update && \
+	apt-get install -y software-properties-common
+
+RUN apt-get update && \
+	apt-get install -y openjdk-8-jdk
+
+RUN apt-get update && \
+	apt-get install -y kotlin
+
+RUN apt-get update && \
+	apt-get install -y gradle
+
+RUN apt-get update && \
+	apt-get install -y curl
+
+RUN curl -o jdbc.jar https://github.com/xerial/sqlite-jdbc/releases/tag/3.39.4.0/sqlite-jdbc-3.39.4.0.jar
+RUN export CLASSPATH=jdbc.jar
+
+RUN useradd -ms /bin/bash newuser
+RUN adduser newuser sudo
+
+USER newuser
+WORKDIR /home/newuser
+
+COPY build.gradle ./
+

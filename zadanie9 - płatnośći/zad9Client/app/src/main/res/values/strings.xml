@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">zad9</string>
+    <string name="username">Username</string>
+    <string name="adduser">ADD User</string>
+    <string name="back">BACK</string>
+    <string name="add_new_user">ADD NEW USER</string>
+    <string name="produkty">Produkty</string>
+    <string name="koszyk">Koszyk</string>
+    <string name="produkty_w_koszyku">Produkty w koszyku:</string>
+    <string name="price">Price:</string>
+    <string name="confirm">Confirm</string>
+    <string-array name="Products">
+        <item>Odkurzacz</item>
+        <item>Jablko</item>
+        <item>Obroza</item>
+        <item>Banan</item>
+        <item>Mleko</item>
+        <item>Plecak</item>
+    </string-array>
+</resources>

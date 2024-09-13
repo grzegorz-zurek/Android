@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Zakupy</string>
+    <string name="productList">Lista Zakupów</string>
+    <string-array name="ProductNames">
+        <item>Jabłko</item>
+        <item>Gruszka</item>
+        <item>Banan</item>
+        <item>Szampon do włosów</item>
+        <item>Woda gazowana</item>
+        <item>Ryż biały</item>
+        <item>Chleb</item>
+        <item>Bułka pełnoziarnista</item>
+    </string-array>
+    <string-array name="ProductDescriptions">
+        <item>Jadalny, kulisty owoc drzew z rodzaju jabłoń Malus.</item>
+        <item>Bogaty w substancje odżywcze i ma działanie przeciwzapalne.</item>
+        <item>Podłużne owoce, o zwartym kremowym miąższu, opakowane w grubą niejadalną skórkę.</item>
+        <item>Płynny środek do mycia włosów, zawierający ciekłe mydło, substancje pieniące oraz substancje pomocnicze, takie jak związki zapachowe, odżywcze, nawilżające, antystatyczne, natłuszczająco-nabłyszczające, lecznicze i koloryzujące włosy.</item>
+        <item>Z chemicznego punktu widzenia woda gazowana jest wodnym roztworem kwasu węglowego oraz kationów metali (wapnia, magnezu, sodu, potasu) i anionów (głównie wodorowęglanowych, siarczanowych, chlorkowych).</item>
+        <item>Najbardziej popularna odmiana ryżu. Podczas procesu tzw. „polerowania” pozbawiony jest łupiny, otrębów i zarodka. Ryż biały jest uboższy w składniki odżywcze, ale za to cechuje się dłuższym okresem przydatności, delikatnym smakiem, jest tani i ma krótki czas gotowania od 10 do 15 min.</item>
+        <item>Pieczywo otrzymywane z wypieku ciasta, będącego jednorodnym połączeniem mąki i wody, poddanego najczęściej, ale nie zawsze, fermentacji alkoholowej, wyrobionego w bochny różnego kształtu i wielkości.</item>
+        <item>Źródło dużej ilości błonnika. Jego spożycie wpływa na naturalną perystaltykę jelit. Dzięki temu działa zapobiegawczo przeciw rakowi jelita grubego.</item>
+    </string-array>
+    <string name="cart">Koszyk</string>
+    <string name="button1">Lista Produktów</string>
+    <string name="button2">Koszyk</string>
+    <string name="backButtonName">Powrót</string>
+    <string name="description">Opis</string>
+    <string name="addToCart">Dodaj do koszyka</string>
+    <string name="sample_text">sample</string>
+</resources>

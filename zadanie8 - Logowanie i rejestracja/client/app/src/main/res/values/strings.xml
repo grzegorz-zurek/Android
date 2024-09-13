@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">zad8</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="go_back_to_login">Go back to Login</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string-array name="names">
+        <item>Powiesić pranie</item>
+        <item>Wynieść śmieci</item>
+        <item>Odkurzyć dom</item>
+        <item>Umyć podłogi</item>
+        <item>Przetrzeć kurze</item>
+        <item>Zrobić zakupy</item>
+    </string-array>
+</resources>
